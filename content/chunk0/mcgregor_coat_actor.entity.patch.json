@@ -1,0 +1,56 @@
+{
+	"tempHash": "00317E24205ED083",
+	"tbluHash": "00DAE12553D68CE2",
+	"patch": [
+		{
+			"AddEntity": [
+				"cafe452b93bab922",
+				{
+					"parent": "1d768a58476b6843",
+					"name": "lens_basic",
+					"factory": "[assembly:/_pro/characters/assets/_apparel/accessories/glasses/materials/lens_basic.mi].pc_entitytype",
+					"blueprint": "[assembly:/_pro/characters/assets/_apparel/accessories/glasses/materials/lens_basic.mi].pc_entityblueprint",
+					"properties": {
+						"m_mTransform": {
+							"type": "SMatrix43",
+							"value": {
+								"rotation": {
+									"x": -0.0,
+									"y": 0.0,
+									"z": -0.0
+								},
+								"position": {
+									"x": 0.0,
+									"y": 0.0,
+									"z": 0.0
+								}
+							}
+						},
+						"Texture2D_01": {
+							"type": "ZRuntimeResourceID",
+							"value": {
+								"resource": "00E84A152272E74F",
+								"flag": "5F"
+							}
+						},
+						"Texture2D_01_enab": {
+							"type": "bool",
+							"value": true
+						},
+						"Clients": {
+							"type": "TArray<SEntityTemplateReference>",
+							"value": ["1d768a58476b6843"],
+							"postInit": true
+						},
+						"m_eidParent": {
+							"type": "SEntityTemplateReference",
+							"value": "b3edd9db82f4b9ea",
+							"postInit": true
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}

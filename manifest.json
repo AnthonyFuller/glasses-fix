@@ -3,8 +3,9 @@
 	"version": "0.2.0",
 	"id": "anthonyfuller.glassesfix",
 	"name": "Should've Gone to Specsavers (Glasses Fix)",
-	"description": "Fixes NPC's glasses broken in the 3.190.0 patch. ",
+	"description": "Fixes glasses broken in the 3.190.0 patch. ",
 	"authors": ["Anthony Fuller"],
+	"contentFolders": ["content"],
 	"frameworkVersion": "2.33.17",
 	"updateCheck": "https://github.com/AnthonyFuller/glasses-fix/releases/latest/download/updates.json"
 }
