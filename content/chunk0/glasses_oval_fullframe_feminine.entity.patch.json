@@ -1,0 +1,21 @@
+{
+	"tempHash": "00D8DAB7205B2DF4",
+	"tbluHash": "000C9A4DBE1477E1",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"a0f16d7e45baa06e",
+				{
+					"SetPropertyValue": {
+						"property_name": "Texture2D_01",
+						"value": {
+							"resource": "[assembly:/_pro/characters/assets/_apparel/accessories/glasses/textures/lens_basic.texture?/diffuse_a.tex](ascolormap).pc_tex",
+							"flag": "5F"
+						}
+					}
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
