@@ -1,11 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"id": "anthonyfuller.glassesfix",
 	"name": "Should've Gone to Specsavers (Glasses Fix)",
 	"description": "Fixes the lenses of glasses broken in the 3.190.0 patch. ",
 	"authors": ["Anthony Fuller"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.33.17",
+	"frameworkVersion": "2.33.19",
 	"updateCheck": "https://github.com/AnthonyFuller/glasses-fix/releases/latest/download/updates.json"
 }

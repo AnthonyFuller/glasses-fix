@@ -6,4 +6,4 @@ Fixes the lenses of glasses broken in the 3.190.0 patch.
 
 ---
 
-`anthonyfuller.glassesfix` v0.3.0, by Anthony Fuller. This README was automatically generated from the mod's manifest.
+`anthonyfuller.glassesfix` v0.4.0, by Anthony Fuller. This README was automatically generated from the mod's manifest.
